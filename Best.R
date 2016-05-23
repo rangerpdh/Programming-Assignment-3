@@ -1,4 +1,5 @@
 ## best.R function
+## Added comments
 
 best <- function(state, outcome) {
   
