@@ -1,4 +1,5 @@
 ## rankall.R
+## Added Comments
 
 rankall <- function(outcome, num = "best") {
   ## Read outcome data
