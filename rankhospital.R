@@ -1,4 +1,5 @@
 ## rankhospital.R
+## Added Comments
 
 rankhospital <- function(state, outcome, num = "best") {
   ## Read outcome data
